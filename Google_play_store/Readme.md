@@ -4,17 +4,29 @@ Dataset Description
 The dataset contains information about apps on the Google Play Store. Key columns include:
 
 App: Name of the application.
+
 Category: App category (e.g., Tools, Entertainment).
+
 Rating: Average user rating of the app.
+
 Reviews: Number of user reviews.
+
 Size: Size of the app (e.g., 15 MB).
+
 Installs: Number of times the app was installed.
+
 Type: Whether the app is Free or Paid.
+
 Price: Price of the app (if applicable).
+
 Content Rating: Target audience of the app (e.g., Everyone, Teen).
+
 Genres: Additional genre information.
+
 Last Updated: The date the app was last updated.
+
 Current Version : The current version of app which is available.
+
 Android Version : The Android version on which the app the app will run.
 
 SQL Techniques Used
