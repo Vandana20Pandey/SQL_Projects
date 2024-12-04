@@ -31,12 +31,19 @@ Android Version : The Android version on which the app the app will run.
 
 SQL Techniques Used
 Data Aggregation: GROUP BY, SUM(), AVG(), COUNT().
+
 Filtering: WHERE, HAVING.
+
 Sorting: ORDER BY.
+
 Joins and Subqueries: For multi-dimensional analysis.
+
 Date Functions: To analyze trends over time.
+
 Case Statements: For conditional categorization.
+
 Triggers : For storing the log record.
+
 Stored Procedure : For getting the apps real time feedback by providing the category.
 
 Insights Gained
